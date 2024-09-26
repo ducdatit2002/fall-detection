@@ -4,8 +4,11 @@
 This project aims to develop a fall detection system using YOLOv5 for real-time monitoring. The system can detect if a person falls and trigger an alert, providing crucial support for elderly care and personal safety.
 
 ## Contributors
-- **Đức Đạt**
-- **Thiên Doanh**
+- **Phạm Đức Đạt**
+- **Lê Thiên Doanh**
+- **Dương Thị Quỳnh Như**
+- **Nguyễn Khánh Hà**
+- **Nguyễn Hoàng Luân**
 
 ## Deployment
 The project is deployed on Hugging Face Spaces and can be accessed via the following link:  
