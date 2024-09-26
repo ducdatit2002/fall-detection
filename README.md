@@ -19,7 +19,7 @@ The project is deployed on Hugging Face Spaces and can be accessed via the follo
 1. **Clone the Repository**  
    Clone the project repository to your local machine:
    ```bash
-   git clone https://github.com/your-repo/fall-detection.git
+   git clone https://github.com/ducdatit2002/fall-detection.git
    cd fall-detection
    ```
 
